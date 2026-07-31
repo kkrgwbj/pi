@@ -1,0 +1,10 @@
+    "npm:@demigodmode/pi-web-agent",
+    "npm:@piex-dev/lsp",
+    "npm:@piex-dev/plan",
+    "npm:@piex-dev/init",
+    "npm:@piex-dev/theme-dark-terminal",
+    "npm:@piex-dev/btw",
+    "npm:@piex-dev/context",
+    "git:github.com/obra/superpowers",
+    "npm:@bacnh85/pi-obsidian",
+    "npm:@touchtechclub/pi-oc-rewind"
